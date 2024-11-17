@@ -29,8 +29,11 @@ github_username:  don.gato.coded
 
 # Build settings
 theme: minima
+minima:
+  skin: dark 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Exclude from processing.
 # The following items will not be processed, by default.
