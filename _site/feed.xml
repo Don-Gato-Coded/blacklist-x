@@ -1,19 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/blacklist-x/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blacklist-x/" rel="alternate" type="text/html" /><updated>2024-11-20T23:12:51-05:00</updated><id>http://localhost:4000/blacklist-x/feed.xml</id><title type="html">The Blacklist-X</title><subtitle>Digital Nomad. Crossed off every list.</subtitle><entry><title type="html">Weather</title><link href="http://localhost:4000/blacklist-x/weather/2024/11/20/weather.html" rel="alternate" type="text/html" title="Weather" /><published>2024-11-20T00:00:00-05:00</published><updated>2024-11-20T00:00:00-05:00</updated><id>http://localhost:4000/blacklist-x/weather/2024/11/20/weather</id><content type="html" xml:base="http://localhost:4000/blacklist-x/weather/2024/11/20/weather.html"><![CDATA[<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;style&gt;
-   
-    .weather-container {
-        width: 90%; /* Set a reasonable width */
-        height: 630px; /* Adjust height for better iframe visibility */
-        margin: -20px 0; /* Margin for spacing */
-    }
-    iframe {
-        border: none;
-        width: 100%;
-        height: 100%; /* Ensure iframe takes full height of its container */
-        color-scheme: dark;
-    }
-&lt;/style&gt;
-</code></pre></div></div>
-<p>&lt;/head&gt;</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/blacklist-x/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blacklist-x/" rel="alternate" type="text/html" /><updated>2024-11-20T23:14:46-05:00</updated><id>http://localhost:4000/blacklist-x/feed.xml</id><title type="html">The Blacklist-X</title><subtitle>Digital Nomad. Crossed off every list.</subtitle><entry><title type="html">Weather</title><link href="http://localhost:4000/blacklist-x/weather/2024/11/20/weather.html" rel="alternate" type="text/html" title="Weather" /><published>2024-11-20T00:00:00-05:00</published><updated>2024-11-20T00:00:00-05:00</updated><id>http://localhost:4000/blacklist-x/weather/2024/11/20/weather</id><content type="html" xml:base="http://localhost:4000/blacklist-x/weather/2024/11/20/weather.html"><![CDATA[<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	    <link rel="shortcut icon" href="data:image/png;base64,AAABAAEAEBACAAEAAQCwAAAAFgAAACgAAAAQAAAAIAAAAAEAAQAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA" />
+            <style>
+       
+        .weather-container {
+            width: 90%; /* Set a reasonable width */
+            height: 630px; /* Adjust height for better iframe visibility */
+            margin: -20px 0; /* Margin for spacing */
+        }
+        iframe {
+            border: none;
+            width: 100%;
+            height: 100%; /* Ensure iframe takes full height of its container */
+            color-scheme: dark;
+        }
+    </style>
+</head>
 <body>
    &lt;/br&gt;
     <!-- Weather Container -->
@@ -21,7 +25,7 @@
         <iframe src="https://wttr.in/boca+raton"></iframe>
     </div>
 </body>
-<p>&lt;/html&gt;</p>]]></content><author><name>Don Gato</name></author><category term="Weather" /><summary type="html"><![CDATA[&lt;style&gt; .weather-container { width: 90%; /* Set a reasonable width */ height: 630px; /* Adjust height for better iframe visibility */ margin: -20px 0; /* Margin for spacing */ } iframe { border: none; width: 100%; height: 100%; /* Ensure iframe takes full height of its container */ color-scheme: dark; } &lt;/style&gt; &lt;/head&gt; &lt;/br&gt; &lt;/html&gt;]]></summary></entry><entry><title type="html">Links 11-11 - 11-17</title><link href="http://localhost:4000/blacklist-x/2024/11/17/links.html" rel="alternate" type="text/html" title="Links 11-11 - 11-17" /><published>2024-11-17T00:00:00-05:00</published><updated>2024-11-17T00:00:00-05:00</updated><id>http://localhost:4000/blacklist-x/2024/11/17/links</id><content type="html" xml:base="http://localhost:4000/blacklist-x/2024/11/17/links.html"><![CDATA[<h2 id="notable-reads-for-11-11---11-17">Notable reads for 11-11 - 11-17</h2>
+</html>]]></content><author><name>Don Gato</name></author><category term="Weather" /><summary type="html"><![CDATA[&lt;/br&gt;]]></summary></entry><entry><title type="html">Links 11-11 - 11-17</title><link href="http://localhost:4000/blacklist-x/2024/11/17/links.html" rel="alternate" type="text/html" title="Links 11-11 - 11-17" /><published>2024-11-17T00:00:00-05:00</published><updated>2024-11-17T00:00:00-05:00</updated><id>http://localhost:4000/blacklist-x/2024/11/17/links</id><content type="html" xml:base="http://localhost:4000/blacklist-x/2024/11/17/links.html"><![CDATA[<h2 id="notable-reads-for-11-11---11-17">Notable reads for 11-11 - 11-17</h2>
 <h3 id="i-cant-believe-marvel-is-ending-its-most-ambitious-mcu-show-in-its-best-moment"><a href="https://screenrant.com/marvel-mcu-show-ending-what-if/">I Can’t Believe Marvel Is Ending Its Most Ambitious MCU Show In Its Best Moment</a></h3>
 <p><img src="/blacklist-x/images/captain-carter-and-storm-variant_df14c24e5be54ad1ab76055faf508c5c.jpg" alt="marvel" /></p>
 
