@@ -198,3 +198,5 @@ table td { border: 1px solid #e8e8e8; }
 /** Wrapper */
 .wrapper { max-width: 70%; max-width: 70%; margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; }
 @media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(800px - (30px)); max-width: calc(800px - (30px)); padding-right: 15px; padding-left: 15px; } }
+
+.post-list-heading { font-size: 28px; }

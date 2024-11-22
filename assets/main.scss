@@ -2,6 +2,8 @@
 ---
 @import "minima";
 
+$base-font-weight: bold !default;
+
 /**
  * Wrapper
  */
@@ -22,5 +24,11 @@
     }
   }
 
+  .post-list-heading {
+    @include font-size: 2.3em;
+  }
 
-
+  .post-link {
+    display: block;
+    @include font-size:2.3em;
+  }
